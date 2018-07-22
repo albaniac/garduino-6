@@ -1,7 +1,7 @@
 # Watering Plants with Arduino
 
 Set up arduino to water your Plants once a day!
-
+![Garduino Box](garduino.JPG)
 
 ## Hardware components
 
