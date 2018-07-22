@@ -37,18 +37,6 @@ Set up arduino to water your Plants once a day!
     * pin from 2 to 9
 
 
-* Python 2.7
-  * datetime
-  * time
-  * bluetooth
-  * apscheduler
-  * json
-  * flask
-  * psutil
-  * os
-  * json
-  * time
-
 
 ## Instructions
 
