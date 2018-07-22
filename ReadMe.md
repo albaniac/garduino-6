@@ -10,7 +10,8 @@ Set up arduino to water your Plants once a day!
 * 128x64 OLED display
 * Relay module
 * Submersible Pump
-* keypad
+* Keypad
+* DS3231 Clock
 
 
 ### Wiring to the first arduino
@@ -32,7 +33,7 @@ Set up arduino to water your Plants once a day!
   * SCL to SCL in arduino
   * SDA to SDA in arduino
 
-  * Keypad
+* Keypad
     * pin from 2 to 9
 
 
@@ -51,11 +52,11 @@ Set up arduino to water your Plants once a day!
 
 ## Instructions
 
-A: set watering time (E.g. If you want to water plants at 8 am press A+0+8 )
-B: set watering duration (E.g. if you want to water plants for 6 seconds press B+6)
-C: set time and date(E.g. if it is 9:56 of the 28th June 2018 press: C+0+9+5+6+2+8+0+6+1+8)
-*: water now
-‘D’ and ‘#’: push them if you dare!
+* A: set watering time (E.g. If you want to water plants at 8 am press A+0+8 )
+* B: set watering duration (E.g. if you want to water plants for 6 seconds press B+6)
+* C: set time and date(E.g. if it is 9:56 of the 28th June 2018 press: C+0+9+5+6+2+8+0+6+1+8)
+* *: water now
+* ‘D’ and ‘#’: push them if you dare!
 
 
 ## License
